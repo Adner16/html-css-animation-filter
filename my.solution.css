@@ -36,3 +36,16 @@
     .ex-4-square{
         transition: 2s;
     }
+
+    /* esercizio 5 */
+
+    .ex-5-square:hover{
+        transform: scale(1.5);
+    }
+    .ex-5-square:active{
+        transform: scale(0.5);
+    }
+    
+    .ex-5-square{
+        transition: 2s;
+    }
