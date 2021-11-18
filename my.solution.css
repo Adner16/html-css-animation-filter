@@ -49,3 +49,12 @@
     .ex-5-square{
         transition: 2s;
     }
+
+    /* esercizio 6 */
+
+    .ex-6-img:hover{
+        filter: grayscale(1);
+    }
+    .ex-6-img{
+        transition: 2s;
+    }
